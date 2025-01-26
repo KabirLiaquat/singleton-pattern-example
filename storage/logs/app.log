@@ -1,0 +1,14 @@
+[2025-01-26 02:39:55] User admin logged in
+[2025-01-26 02:39:55] Current User: {"username":"admin","role":"admin"}
+[2025-01-26 02:39:55] User 'admin' logout successfully
+[2025-01-26 02:48:29] User admin logged in
+[2025-01-26 02:49:07] User admin logged in
+[2025-01-26 02:49:07] Current User: {"username":"admin","role":"admin"}
+[2025-01-26 02:49:07] User 'admin' logout successfully
+[2025-01-26 02:49:42] User admin logged in
+[2025-01-26 02:49:42] Current User: {"username":"admin","role":"admin"}
+
+[2025-01-26 02:49:42] User 'admin' logout successfully
+[2025-01-26 02:50:30] User admin logged in
+[2025-01-26 02:50:30] Current User: {"username":"admin","role":"admin"}
+[2025-01-26 02:50:30] User 'admin' logout successfully
